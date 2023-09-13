@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Assistant Professor of Economics @ScPoEcon in Paris. I'm also the Data Editor of the Economic Journal and the Econometrics Journal. You can find some related materials to this position on the [github org](https://github.com/RES-reproducibility) created for this purpose. On my personal github profile you will find a large part of my work, related to both teaching and research. 
+I am an Associate Professor of Economics @ScPoEcon in Paris. I'm also the Data Editor of the Economic Journal and the Econometrics Journal. You can find some related materials to this position on the [github org](https://github.com/RES-reproducibility) created for this purpose. On my personal github profile you will find a large part of my work, related to both teaching and research. 
 
 * I am working increasingly with @julialang only
 * I have a lot of code in R, particularly spatial stuff
